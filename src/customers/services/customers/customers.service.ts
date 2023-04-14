@@ -7,7 +7,7 @@ export class CustomersService {
   private customers: Customer[] = [
     {
       id: 1,
-      email: 'ankit@gmail.com',
+      email: 'ankit@gmail.com', 
       name: 'ankit',
     },
     {
